@@ -111,8 +111,10 @@ TABULATION:
 
 
 Calculation
-1.	ma (Theory) = am/ac = 0.4223
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.44213
+1.	ma (Theory) = am/ac = 0.625
+2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.6013
+   <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/5786af4b-4c2a-469a-ac4d-d1d86e5a3e37" />
+
 
 
 MODEL GRAPH
